@@ -1,0 +1,22 @@
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-right: 2.2rem;
+}
+
+.button {
+    background-color: #078e0c;
+    color: #fff;
+    border: none;
+    border-radius: 0.25rem;
+    padding: 0.5rem;
+    cursor: pointer;
+    text-decoration: none;
+}
